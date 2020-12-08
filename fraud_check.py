@@ -1,5 +1,5 @@
 
-###importing the dataset
+###importing the dataset 
 import pandas as pd
 
 data = pd.read_csv("E:\\assignment\\decisiontree\\Fraud_Check.csv")
